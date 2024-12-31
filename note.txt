@@ -1,0 +1,21 @@
+create a folder named server then create file inside this folder named server.js
+
+open integrated terminal of server.js and "npm i -y"  ->enter
+
+set type as module in package.json file
+  "type": "module",
+
+install express in server folder->npm i express
+
+
+install jsonwebtoken in server folder->npm i jsonwebtoken
+
+install the following
+*npm i bcrypt
+*npm i mongoose
+*npm i nodemon
+*npm i svix@1.42.0 - for clerk authentication 
+*npm i cors
+*npm i multer - for manage form data
+*npm i dotenv
+*npm i cloudinary - cloud storage platform
